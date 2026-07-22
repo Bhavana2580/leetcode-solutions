@@ -29,6 +29,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +59,13 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
