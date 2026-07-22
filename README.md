@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -66,9 +67,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
