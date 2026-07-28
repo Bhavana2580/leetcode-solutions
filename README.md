@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0434-number-of-segments-in-a-string](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
