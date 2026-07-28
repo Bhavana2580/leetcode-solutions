@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Greedy
