@@ -13,6 +13,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
