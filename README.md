@@ -127,6 +127,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
