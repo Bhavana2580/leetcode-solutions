@@ -62,6 +62,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
 |  |
 | ------- |
