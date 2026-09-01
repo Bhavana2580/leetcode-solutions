@@ -20,6 +20,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -153,6 +157,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,4 +175,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
