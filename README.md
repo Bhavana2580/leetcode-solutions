@@ -86,6 +86,7 @@
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
@@ -113,6 +114,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
