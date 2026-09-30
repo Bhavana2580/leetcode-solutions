@@ -145,6 +145,7 @@
 | [0125-valid-palindrome](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [1446-consecutive-characters](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Greedy
