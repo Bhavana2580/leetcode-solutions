@@ -88,6 +88,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0048-rotate-image) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## String
 |  |
 | ------- |
@@ -154,6 +157,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2607-make-k-subarray-sums-equal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Linked List
 |  |
@@ -218,4 +222,8 @@
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2607-make-k-subarray-sums-equal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 <!---LeetCode Topics End-->
