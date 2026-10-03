@@ -90,6 +90,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2615-sum-of-distances](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Bhavana2580/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2615-sum-of-distances](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Bhavana2580/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Recursion
 |  |
 | ------- |
