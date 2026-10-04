@@ -86,6 +86,7 @@
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2404-most-frequent-even-element](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2404-most-frequent-even-element](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2615-sum-of-distances](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhavana2580/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -234,4 +236,8 @@
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2615-sum-of-distances) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
