@@ -79,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [2404-most-frequent-even-element](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
