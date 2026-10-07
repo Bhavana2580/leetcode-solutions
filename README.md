@@ -84,6 +84,7 @@
 | [0049-group-anagrams](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## Heap (Priority Queue)
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2607-make-k-subarray-sums-equal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2607-make-k-subarray-sums-equal) |
 ## String
 |  |
