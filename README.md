@@ -85,6 +85,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavana2580/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0713-subarray-product-less-than-k](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2615-sum-of-distances](https://github.com/Bhavana2580/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Counting
 |  |
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0046-permutations) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Bhavana2580/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
